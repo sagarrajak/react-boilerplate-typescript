@@ -1,0 +1,16 @@
+.test-container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    ul {
+        background: #3399ff;
+        padding: 20px;
+        li {
+            background: #ffe5e5;
+            color: darkred;
+            padding: 5px;
+            margin-left: 35px;
+        }
+    }
+}
